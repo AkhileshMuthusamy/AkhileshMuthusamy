@@ -1,5 +1,10 @@
+
 ### Hi there 👋
 
+I am a polyglot programmer with five years of working experience in various programming languages like Node.js, Angular, C#, Javascript, Python, and Powershell.
+
+### 📫 Where to find me
+- [LinkedIn](https://www.linkedin.com/in/akhileshmuthusamy/) 💼
 <!--
 **AkhileshMuthusamy/AkhileshMuthusamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

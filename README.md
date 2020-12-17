@@ -5,6 +5,9 @@ I am a polyglot programmer with five years of working experience in various prog
 
 ### 📫 Where to find me
 - [LinkedIn](https://www.linkedin.com/in/akhileshmuthusamy/) 💼
+
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhileshMuthusamy&langs_count=3&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/?username=AkhileshMuthusamy&count_private=true&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
 <!--
 **AkhileshMuthusamy/AkhileshMuthusamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

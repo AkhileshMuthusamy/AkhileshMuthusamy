@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-I am a polyglot programmer with experience in various programming languages and tools like React, Node.js, Angular, C#, Javascript, Python, Bash, Shell and Powershell.
+I am a polyglot programmer with experience in various programming languages and tools like Python, Rust, Node.js, Angular, Javascript, Bash, Shell and Powershell.
 
 ### 📫 Where to find me
 - [LinkedIn](https://www.linkedin.com/in/akhileshmuthusamy/) 💼
